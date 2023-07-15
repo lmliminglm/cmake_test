@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,liboperation.so -o ../../operation/lib/liboperation.so CMakeFiles/operation.dir/src/add.c.o CMakeFiles/operation.dir/src/devide.c.o CMakeFiles/operation.dir/src/multiply.c.o CMakeFiles/operation.dir/src/subtract.c.o 

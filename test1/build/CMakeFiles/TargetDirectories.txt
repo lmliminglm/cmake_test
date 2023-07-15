@@ -1,0 +1,6 @@
+/home/liming/github/cmake_test/test1/build/CMakeFiles/rebuild_cache.dir
+/home/liming/github/cmake_test/test1/build/CMakeFiles/edit_cache.dir
+/home/liming/github/cmake_test/test1/build/CMakeFiles/test1.dir
+/home/liming/github/cmake_test/test1/build/operation/CMakeFiles/rebuild_cache.dir
+/home/liming/github/cmake_test/test1/build/operation/CMakeFiles/edit_cache.dir
+/home/liming/github/cmake_test/test1/build/operation/CMakeFiles/operation.dir

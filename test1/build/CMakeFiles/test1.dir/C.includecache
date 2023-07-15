@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../operation/inc/public.h
+
+/home/liming/github/cmake_test/test1/main.c
+stdio.h
+-
+stdlib.h
+-
+public.h
+/home/liming/github/cmake_test/test1/public.h
+

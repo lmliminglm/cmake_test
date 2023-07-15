@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../operation/inc/public.h
+
+/home/liming/github/cmake_test/test1/operation/src/add.c
+public.h
+/home/liming/github/cmake_test/test1/operation/src/public.h
+
+/home/liming/github/cmake_test/test1/operation/src/devide.c
+public.h
+/home/liming/github/cmake_test/test1/operation/src/public.h
+
+/home/liming/github/cmake_test/test1/operation/src/multiply.c
+public.h
+/home/liming/github/cmake_test/test1/operation/src/public.h
+
+/home/liming/github/cmake_test/test1/operation/src/subtract.c
+public.h
+/home/liming/github/cmake_test/test1/operation/src/public.h
+
